@@ -145,3 +145,100 @@
 [20-12-09 16:47:16] Found the smallest number 9,000,046,899 for step 103
 [20-12-09 16:47:16] Searching done for all 10-digit numbers (~49.61% Lychrels)
 [20-12-09 16:47:16] Results saved [126694/687KiB]
+[20-12-09 16:47:16] Current search depth was changed to 205 steps
+[20-12-09 16:47:16] Results saved [152326/597KiB]
+[20-12-09 16:47:16] Results saved [151558/594KiB]
+[20-12-09 16:47:16] New RECORD! found: number 10,000,442,119 for step 112
+[20-12-09 16:47:16] Results saved [150490/590KiB]
+[20-12-09 16:47:16] Found the smallest number 10,000,505,448 for step 102
+[20-12-09 16:47:16] Found the smallest number 10,000,696,511 for step 107
+[20-12-09 16:47:16] New RECORD! found: number 10,000,761,554 for step 113
+[20-12-09 16:47:16] Results saved [150274/628KiB]
+[20-12-09 16:47:17] New RECORD! found: number 10,000,853,648 for step 131
+[20-12-09 16:47:17] Found the smallest number 10,000,922,347 for step 106
+[20-12-09 16:47:17] New RECORD! found: number 10,000,973,037 for step 135
+[20-12-09 16:47:17] Results saved [150058/633KiB]
+[20-12-09 16:47:17] Results saved [151304/643KiB]
+[20-12-09 16:47:17] Found the smallest number 10,006,198,250 for step 115
+[20-12-09 16:47:17] Results saved [150001/636KiB]
+[20-12-09 16:47:17] Found the smallest number 10,018,999,583 for step 111
+[20-12-09 16:47:17] Results saved [151206/637KiB]
+[20-12-09 16:47:17] New RECORD! found: number 10,031,199,494 for step 147
+[20-12-09 16:47:17] Results saved [150715/637KiB]
+[20-12-09 16:47:17] Found the smallest number 10,050,289,485 for step 123
+[20-12-09 16:47:17] Found the smallest number 10,050,859,271 for step 133
+[20-12-09 16:47:17] Results saved [151102/645KiB]
+[20-12-09 16:47:17] Results saved [150705/637KiB]
+[20-12-09 16:47:17] Found the smallest number 10,084,899,970 for step 114
+[20-12-09 16:47:17] New RECORD! found: number 10,087,799,570 for step 149
+[20-12-09 16:47:17] Results saved [150441/645KiB]
+[20-12-09 16:47:18] Results saved [150833/636KiB]
+[20-12-09 16:47:18] Results saved [150918/637KiB]
+[20-12-09 16:47:18] Found the smallest number 10,287,799,930 for step 134
+[20-12-09 16:47:18] Found the smallest number 10,306,095,991 for step 148
+[20-12-09 16:47:18] Results saved [150582/645KiB]
+[20-12-09 16:47:18] Results saved [150315/646KiB]
+[20-12-09 16:47:18] Results saved [150728/654KiB]
+[20-12-09 16:47:18] Found the smallest number 10,600,713,933 for step 136
+[20-12-09 16:47:18] Results saved [150829/641KiB]
+[20-12-09 16:47:18] Found the smallest number 10,701,592,943 for step 110
+[20-12-09 16:47:18] Results saved [150825/641KiB]
+[20-12-09 16:47:18] Results saved [150598/648KiB]
+[20-12-09 16:47:19] Results saved [150093/651KiB]
+[20-12-09 16:47:19] Found the smallest number 10,942,399,911 for step 137
+[20-12-09 16:47:19] Results saved [151132/656KiB]
+[20-12-09 16:47:19] Found the smallest number 11,009,599,796 for step 145
+[20-12-09 16:47:19] Results saved [150777/655KiB]
+[20-12-09 16:47:19] Found the smallest number 11,400,245,996 for step 117
+[20-12-09 16:47:19] Results saved [150304/662KiB]
+[20-12-09 16:47:19] Results saved [151250/669KiB]
+[20-12-09 16:47:19] Results saved [150410/673KiB]
+[20-12-09 16:47:19] Found the smallest number 13,003,696,093 for step 132
+[20-12-09 16:47:19] Results saved [151217/676KiB]
+[20-12-09 16:47:19] Results saved [150473/671KiB]
+[20-12-09 16:47:19] Results saved [150516/680KiB]
+[20-12-09 16:47:20] Results saved [150011/682KiB]
+[20-12-09 16:47:20] Results saved [150953/685KiB]
+[20-12-09 16:47:20] Found the smallest number 16,000,097,392 for step 146
+[20-12-09 16:47:20] Found the smallest number 16,002,897,892 for step 118
+[20-12-09 16:47:20] Results saved [151032/661KiB]
+[20-12-09 16:47:20] Results saved [150405/666KiB]
+[20-12-09 16:47:20] Results saved [150651/674KiB]
+[20-12-09 16:47:20] Results saved [150596/682KiB]
+[20-12-09 16:47:20] Results saved [150171/683KiB]
+[20-12-09 16:47:20] Found the smallest number 18,060,009,890 for step 116
+[20-12-09 16:47:20] Found the smallest number 18,317,699,990 for step 119
+[20-12-09 16:47:20] Results saved [150382/681KiB]
+[20-12-09 16:47:20] Results saved [150293/691KiB]
+[20-12-09 16:47:21] Results saved [151021/711KiB]
+[20-12-09 16:47:21] Results saved [150398/779KiB]
+[20-12-09 16:47:21] Results saved [150489/804KiB]
+[20-12-09 16:47:21] Results saved [150847/784KiB]
+[20-12-09 16:47:21] Results saved [150382/792KiB]
+[20-12-09 16:47:21] Results saved [150494/778KiB]
+[20-12-09 16:47:21] Results saved [150155/800KiB]
+[20-12-09 16:47:21] Results saved [150177/779KiB]
+[20-12-09 16:47:21] Found the smallest number 37,000,488,999 for step 122
+[20-12-09 16:47:21] Results saved [151193/797KiB]
+[20-12-09 16:47:21] Results saved [150180/792KiB]
+[20-12-09 16:47:21] Results saved [150385/807KiB]
+[20-12-09 16:47:21] Results saved [150026/807KiB]
+[20-12-09 16:47:21] Results saved [150122/783KiB]
+[20-12-09 16:47:22] Results saved [150033/802KiB]
+[20-12-09 16:47:22] Results saved [150326/787KiB]
+[20-12-09 16:47:22] Results saved [150437/808KiB]
+[20-12-09 16:47:22] Found the smallest number 60,000,180,709 for step 144
+[20-12-09 16:47:22] Results saved [150225/787KiB]
+[20-12-09 16:47:22] Results saved [150451/807KiB]
+[20-12-09 16:47:22] Results saved [150104/806KiB]
+[20-12-09 16:47:22] Results saved [150570/793KiB]
+[20-12-09 16:47:22] Results saved [150922/816KiB]
+[20-12-09 16:47:22] Results saved [150165/799KiB]
+[20-12-09 16:47:22] Results saved [150361/805KiB]
+[20-12-09 16:47:22] Results saved [150482/827KiB]
+[20-12-09 16:47:23] Found the smallest number 90,000,626,389 for step 130
+[20-12-09 16:47:23] Results saved [150872/834KiB]
+[20-12-09 16:47:23] Results saved [150444/812KiB]
+[20-12-09 16:47:23] Results saved [150250/812KiB]
+[20-12-09 16:47:23] Searching done for all 11-digit numbers (~57.82% Lychrels)
+[20-12-09 16:47:23] Results saved [106903/579KiB]
