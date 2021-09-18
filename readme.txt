@@ -1,14 +1,14 @@
 ﻿Most Delayed Palindromic Number (MDPN)
 --------------------------------------
 
-Репозиторий базы данных проекта MDPN.
+MDPN project database repository.
 
-Веб-сайт:
-http://dmaslov.name/mdpn/
+Home page:
+https://dmaslov.name/mdpn/
 
-Основной репозиторий проекта:
-https://github.com/dmaslov81/mdpn.git
+MDPN project repository:
+https://github.com/aloncat/mdpn.git
 
-Структура директорий:
----------------------
-  data		база данных отложенных палиндромов
+Directory structure:
+--------------------
+  data		Delayed palindromes database
